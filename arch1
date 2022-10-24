@@ -1,2 +1,9 @@
-HOla
-Otra vez
+<html>
+	<head>
+		<title>Primer documento</title>
+	</head>
+
+<body>
+	<p>Nuestro ejemplo</p>
+</body>
+</html>
